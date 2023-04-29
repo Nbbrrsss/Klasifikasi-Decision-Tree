@@ -1,5 +1,5 @@
         # Klasifikasi Decision Tree #
-Tugas Pertemuan ke-5 - Klasifikasi Decision Tree
+Tugas Pertemuan ke-7 - Klasifikasi Decision Tree
 ================================================
 Nama   : Nibras Bahy Ardyansyah
 
